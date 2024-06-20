@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_elements_card_reviews",
+  "info": {
+    "displayName": "CardReview"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "enterprise": {
+      "type": "string"
+    },
+    "avatar": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "review": {
+      "type": "text"
+    }
+  }
+}

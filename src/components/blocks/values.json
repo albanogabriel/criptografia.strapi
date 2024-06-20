@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_blocks_values",
+  "info": {
+    "displayName": "Values"
+  },
+  "options": {},
+  "attributes": {
+    "titleTransparent": {
+      "type": "component",
+      "repeatable": false,
+      "component": "elements.title-transparent"
+    },
+    "images": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

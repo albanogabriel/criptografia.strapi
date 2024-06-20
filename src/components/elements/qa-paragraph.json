@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_elements_qa_paragraphs",
+  "info": {
+    "displayName": "QA Paragraph"
+  },
+  "options": {},
+  "attributes": {
+    "headingQuestion": {
+      "type": "string"
+    },
+    "paragraph": {
+      "type": "text"
+    }
+  }
+}

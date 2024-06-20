@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_elements_title_transparents",
+  "info": {
+    "displayName": "Title Transparent"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "paragraph": {
+      "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "pink",
+        "white"
+      ]
+    }
+  }
+}

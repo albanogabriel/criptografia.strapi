@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_blocks_row_card_reviews",
+  "info": {
+    "displayName": "RowCardReview"
+  },
+  "options": {},
+  "attributes": {
+    "cardReview": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.card-review"
+    }
+  }
+}
